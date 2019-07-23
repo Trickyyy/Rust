@@ -1,2 +1,2 @@
 # Rust
-Contains Game Information (Prefab, etc)
+Contains Game Information (Prefabs, etc)
