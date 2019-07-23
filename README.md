@@ -1,2 +1,2 @@
-# Rust
-Contains Game Information (Prefabs, etc)
+# About
+Rust Game Information - Prefabs, Assets etc
